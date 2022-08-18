@@ -8,7 +8,7 @@ def get_bugs():
 
 
 def get_features():
-    return ['feature1']
+    return ['feature1', 'feature2']
 
 
 def get_version():
