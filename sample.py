@@ -8,11 +8,11 @@ def get_bugs():
 
 
 def get_features():
-    return ['feature1', 'feature2']
+    return ['feature1', 'feature2', 'feature3']
 
 
 def get_version():
-    return '1.0.0'
+    return '3.0.0'
 
 
 if __name__ == '__main__':
